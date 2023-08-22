@@ -5,7 +5,7 @@
 //  Copyright © 2019 Tap Payments. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+@import Foundation.NSObjCRuntime;
 
 //! Project version number for TapSwiftFixesMac.
 FOUNDATION_EXPORT double TapSwiftFixesMacVersionNumber;
