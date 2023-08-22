@@ -10,7 +10,7 @@ end
 
 target 'TapSwiftFixesiOS' do
 
-	platform :ios, '8.0'
+	platform :ios, '12.0'
 	
 	shared_pods
     
