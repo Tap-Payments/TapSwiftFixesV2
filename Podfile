@@ -18,7 +18,7 @@ end
 
 target 'TapSwiftFixesMac' do
 
-	platform :osx, '10.9'
+	platform :osx, '10.13'
 	
 	shared_pods
     

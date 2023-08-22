@@ -2,12 +2,12 @@ Pod::Spec.new do |s|
 
     s.platform				= :ios
     s.ios.deployment_target	= '12.0'
-	s.osx.deployment_target = '10.9'
+	s.osx.deployment_target = '10.13'
     s.swift_versions		= ['4.0', '4.2', '5.0']
     s.name					= 'TapSwiftFixesV2'
     s.summary				= 'Useful additions that are missing in Swift.'
     s.requires_arc			= true
-    s.version				= '1.0.1'
+    s.version				= '1.0.2'
     s.license				= { :type => 'MIT', :file => 'LICENSE' }
     s.author				= { 'Tap Payments' => 'hello@tap.company' }
     s.homepage				= 'https://github.com/Tap-Payments/TapSwiftFixesV2'
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
     s.subspec 'CoreGraphics' do |coreGraphics|
 		
 		coreGraphics.ios.deployment_target	= '12.0'
-		coreGraphics.osx.deployment_target	= '10.9'
+		coreGraphics.osx.deployment_target	= '10.13'
 	
         coreGraphics.source_files = 'Common/Source/CoreGraphicsFixes/*.{h,m}'
     
@@ -35,7 +35,7 @@ Pod::Spec.new do |s|
     s.subspec 'Exceptions' do |exceptions|
 		
 		exceptions.ios.deployment_target	= '12.0'
-		exceptions.osx.deployment_target	= '10.9'
+		exceptions.osx.deployment_target	= '10.13'
 	
         exceptions.source_files = 'Common/Source/ExceptionCatcher/*.{h,m}'
     
@@ -44,7 +44,7 @@ Pod::Spec.new do |s|
     s.subspec 'Threading' do |threading|
 		
 		threading.ios.deployment_target	= '12.0'
-		threading.osx.deployment_target	= '10.9'
+		threading.osx.deployment_target	= '10.13'
 	
         threading.source_files = 'Common/Source/ThreadingFixes/*.{swift}'
     
