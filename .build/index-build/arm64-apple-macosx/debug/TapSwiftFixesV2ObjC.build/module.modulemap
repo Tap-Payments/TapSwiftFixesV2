@@ -1,0 +1,4 @@
+module TapSwiftFixesV2ObjC {
+    umbrella "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/Sources/TapSwiftFixesV2ObjC"
+    export *
+}

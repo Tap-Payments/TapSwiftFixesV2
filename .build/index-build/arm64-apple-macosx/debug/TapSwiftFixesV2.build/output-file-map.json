@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/.build/index-build/arm64-apple-macosx/debug/TapSwiftFixesV2.build/primary.swiftdeps"
+  },
+  "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/Sources/TapSwiftFixesV2/Exports.swift": {
+    "dependencies": "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/.build/index-build/arm64-apple-macosx/debug/TapSwiftFixesV2.build/Exports.d",
+    "object": "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/.build/index-build/arm64-apple-macosx/debug/TapSwiftFixesV2.build/Exports.swift.o",
+    "swiftmodule": "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/.build/index-build/arm64-apple-macosx/debug/TapSwiftFixesV2.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/.build/index-build/arm64-apple-macosx/debug/TapSwiftFixesV2.build/Exports.swiftdeps",
+    "diagnostics": "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/.build/index-build/arm64-apple-macosx/debug/TapSwiftFixesV2.build/Exports.dia"
+  },
+  "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/Sources/TapSwiftFixesV2/ThreadingFixes.swift": {
+    "dependencies": "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/.build/index-build/arm64-apple-macosx/debug/TapSwiftFixesV2.build/ThreadingFixes.d",
+    "object": "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/.build/index-build/arm64-apple-macosx/debug/TapSwiftFixesV2.build/ThreadingFixes.swift.o",
+    "swiftmodule": "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/.build/index-build/arm64-apple-macosx/debug/TapSwiftFixesV2.build/ThreadingFixes~partial.swiftmodule",
+    "swift-dependencies": "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/.build/index-build/arm64-apple-macosx/debug/TapSwiftFixesV2.build/ThreadingFixes.swiftdeps",
+    "diagnostics": "/Users/MahAllam/ReactNative/tap/ios-helper-libs/TapSwiftFixesV2/.build/index-build/arm64-apple-macosx/debug/TapSwiftFixesV2.build/ThreadingFixes.dia"
+  }
+}
