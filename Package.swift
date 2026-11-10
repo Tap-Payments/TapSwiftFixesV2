@@ -4,8 +4,8 @@ import PackageDescription
 let package = Package(
     name: "TapSwiftFixesV2",
     platforms: [
-        .iOS(.v11),
-        .macOS(.v10_13)
+        .iOS(.v15),
+        .macOS(.v12)
     ],
     products: [
         .library(
