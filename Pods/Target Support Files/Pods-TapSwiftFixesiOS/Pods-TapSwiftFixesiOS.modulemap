@@ -1,6 +1,0 @@
-framework module Pods_TapSwiftFixesiOS {
-  umbrella header "Pods-TapSwiftFixesiOS-umbrella.h"
-
-  export *
-  module * { export * }
-}
